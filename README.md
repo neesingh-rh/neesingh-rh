@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently contributing to Gluster as an Intern at RedHat.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=neesingh-rh&layout=compact)
-
 HAPPY CODING!!
 
 <!--
