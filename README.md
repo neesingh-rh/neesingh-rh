@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Neeraj!
 
-- 🌱 I’m currently contributing to Gluster-a free and open source clustered network filesystem as an Intern at RedHat.
+- 🌱 I’m currently contributing to CephFS-a free and open source clustered network filesystem as an Associate Software Engineer at RedHat.
 
 HAPPY CODING!!
 
