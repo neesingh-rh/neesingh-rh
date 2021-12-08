@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Neeraj!
 
-- 🌱 I’m currently contributing to CephFS-a free and open source clustered network filesystem as an Associate Software Engineer at RedHat.
+- 🌱 I’m currently contributing to Ceph-a free and open source object, block and file storage platform as an Associate Software Engineer at RedHat.
 
 HAPPY CODING!!
 
